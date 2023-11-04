@@ -6,8 +6,6 @@ print("How tall are you? ")
 
 height = input()
 
-print("How much do you weigh? ")
-
-weight = input()
+weight = input("How much do you weigh? ") # You can also insert the prompting string inside the function input().
 
 print(f"Ah, so you are {age} years old, you are {height} tall and you weigh {weight}.")
