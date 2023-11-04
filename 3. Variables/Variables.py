@@ -5,3 +5,5 @@ dogs = 5
 animals = cats + dogs # You can perform operations with the values contained in the variables.
 
 print(animals)
+
+print(f"I have {animals} animals at home.") #You can include brackets with "f" before the string to print values of variables.
